@@ -24,23 +24,6 @@ This project analyzes a banking dataset with over 45,000 client records to extra
 
 ⸻
 
-📂 Directory Structure
-
-📁 banking-analysis
-├── data/
-│   └── banking-clients.csv
-├── notebooks/
-│   └── BankEDA.ipynb
-├── sql/
-│   └── SQLQuery_1.sql
-├── dashboards/
-│   └── LoanAnalysisDashboard.pbix
-├── README.md
-
-
-
-⸻
-
 🧠 Insights Extracted
 	•	Customers aged 30–40 showed the highest loan conversion rate.
 	•	Certain job categories (e.g., blue-collar, self-employed) had higher default probabilities.
